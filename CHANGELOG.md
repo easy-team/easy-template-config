@@ -1,3 +1,8 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/easy-team/easy-template-config/compare/1.1.0...1.2.0) (2024-08-25)
+
+
+
 # 1.1.0 (2021-07-11)
 
 
